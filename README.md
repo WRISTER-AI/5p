@@ -15,6 +15,10 @@ from the prior 2026 targeting exercise.
 | `data/weekly-gameplan-targets.csv` | Slim 15-column export used for the Notion weekly gameplan and the Google Drive sheet |
 | `data/accounts.csv` | The 49 existing accounts with drive zone and suggested action |
 | `data/prior-target-verdicts.csv` | Drop-off verdict for each of the prior 100 targets |
+| `data/call-list.csv` | Master call list: 217 cold targets plus 70 vetted warm CRM leads (tiers W-A/W-B/W-C) |
+| `data/mailing-list.csv` | Master mailing list: 217 cold targets plus 69 mailable warm CRM leads |
+| `data/warm-leads-vetted.csv` | All 122 CRM warm-lead rows with include/exclude decision, priority, zone, segment, and reason |
+| `campaigns/warm-lead-email-campaign.md` | 4-touch Experts On Demand drip ($10K new-client credit), Robb McCune re-engage track, call scripts, objection handling, send mechanics |
 
 ## What's in v3 (beyond the 111-target v2)
 
